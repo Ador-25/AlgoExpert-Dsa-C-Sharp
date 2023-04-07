@@ -1,0 +1,15 @@
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\bin\Debug\net6.0\AlgoExpert-Easy.exe
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\bin\Debug\net6.0\AlgoExpert-Easy.deps.json
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\bin\Debug\net6.0\AlgoExpert-Easy.runtimeconfig.json
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\bin\Debug\net6.0\AlgoExpert-Easy.dll
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\bin\Debug\net6.0\AlgoExpert-Easy.pdb
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\AlgoExpert-Easy.csproj.AssemblyReference.cache
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\AlgoExpert-Easy.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\AlgoExpert-Easy.AssemblyInfoInputs.cache
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\AlgoExpert-Easy.AssemblyInfo.cs
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\AlgoExpert-Easy.csproj.CoreCompileInputs.cache
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\AlgoExpert-Easy.dll
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\refint\AlgoExpert-Easy.dll
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\AlgoExpert-Easy.pdb
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\AlgoExpert-Easy.genruntimeconfig.cache
+D:\My Projects\AlgoExpert-Dsa-C-Sharp\Easy\AlgoExpert-Easy\AlgoExpert-Easy\obj\Debug\net6.0\ref\AlgoExpert-Easy.dll
