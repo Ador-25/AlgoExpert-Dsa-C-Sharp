@@ -11,7 +11,7 @@ namespace AlgoExpert_Easy
         public static bool IsValidSubsequence(List<int> array, List<int> sequence)
         {
             int slowPointer = 0;
-            for(int fastPointer = 0; i < array.Count; fastPointer++)
+            for(int fastPointer = 0; fastPointer < array.Count; fastPointer++)
             {
                 if (array[fastPointer] == sequence[slowPointer])
                     slowPointer++;
