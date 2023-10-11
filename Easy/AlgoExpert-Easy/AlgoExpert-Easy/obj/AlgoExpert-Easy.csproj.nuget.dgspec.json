@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Projects\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\AlgoExpert-Easy.csproj": {}
+    "D:\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\AlgoExpert-Easy.csproj": {}
   },
   "projects": {
-    "D:\\My Projects\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\AlgoExpert-Easy.csproj": {
+    "D:\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\AlgoExpert-Easy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Projects\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\AlgoExpert-Easy.csproj",
+        "projectUniqueName": "D:\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\AlgoExpert-Easy.csproj",
         "projectName": "AlgoExpert-Easy",
-        "projectPath": "D:\\My Projects\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\AlgoExpert-Easy.csproj",
-        "packagesPath": "C:\\Users\\Ador\\.nuget\\packages\\",
-        "outputPath": "D:\\My Projects\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\obj\\",
+        "projectPath": "D:\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\AlgoExpert-Easy.csproj",
+        "packagesPath": "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\",
+        "outputPath": "D:\\AlgoExpert-Dsa-C-Sharp\\Easy\\AlgoExpert-Easy\\AlgoExpert-Easy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abtaheefarhanador\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
